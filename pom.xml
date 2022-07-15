@@ -36,6 +36,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>devops-git-jenkins-docker-dockerhub-kubernetees</finalName>
 	</build>
 
 </project>
