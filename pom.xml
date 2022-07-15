@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.aybaroud</groupId>
-	<artifactId>devops-git-jenkins-docker-dockerhub-kubernetees</artifactId>
+	<artifactId>devops-git-jenkins-docker-dofckerhub-kubernetees</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>devops-git-jenkins-docker-dockerhub-kubernetees</name>
 	<description>Demo project for Spring Boot</description>
