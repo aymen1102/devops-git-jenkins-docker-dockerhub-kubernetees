@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class DevopsGitJenkinsDockerDockerhubKuberneteesApplication {
 
 	@GetMapping
-	public String getProjectName(){
+	public String message(){
 		return "devops-git-jenkins-docker-dockerhub-kubernetees";
 	}
 
