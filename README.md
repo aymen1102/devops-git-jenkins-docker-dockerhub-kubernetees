@@ -8,7 +8,7 @@
 * `kubectl get svc` <br />
 * `kubectl describe service` <br />
 * `minikube service <service name> --url` <br />
-* `kubectl cluster-info` <br />
+* `kubectl delete deploy <deployment name>` <br />
 * `kubectl cluster-info` <br />
 * `kubectl cluster-info` <br />
 * `kubectl cluster-info` <br />
