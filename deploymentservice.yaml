@@ -6,7 +6,7 @@ spec:
   selector:
     matchLabels:
       app: devops-git-jenkins-docker-dockerhub-kubernetees
-  replicas: 2 # Number of replicas that will be created for this deployment
+  replicas: 1 # Number of replicas that will be created for this deployment
   template:
     metadata:
       labels:
@@ -45,7 +45,7 @@ spec:
   selector:
     matchLabels:
       app: spring-boot-docker
-  replicas: 2 # Number of replicas that will be created for this deployment
+  replicas: 1 # Number of replicas that will be created for this deployment
   template:
     metadata:
       labels:
