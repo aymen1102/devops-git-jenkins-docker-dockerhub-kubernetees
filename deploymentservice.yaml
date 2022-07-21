@@ -22,7 +22,7 @@ spec:
 apiVersion: v1 # Kubernetes API version
 kind: Service # Kubernetes resource kind we are creating
 metadata: # Metadata of the resource kind we are creating
-  name: devops-git-jenkins-docker-dockerhub-kubernetees_service
+  name: devops-git-jenkins-docker-dockerhub-kubernetees-service
 spec:
   selector:
     app: devops-git-jenkins-docker-dockerhub-kubernetees
